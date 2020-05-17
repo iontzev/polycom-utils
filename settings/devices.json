@@ -1,0 +1,16 @@
+[
+    {
+        "name": "test",
+        "address": "localhost",
+        "username": "user",
+        "password": "password",
+        "port": 5022
+    },
+    {
+        "name": "device 2",
+        "address": "172.17.43.16",
+        "username": "user",
+        "password": "password",
+        "port": 5022
+    }
+]
